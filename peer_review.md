@@ -1,5 +1,5 @@
 ## Peer Review Guidelines
-
+review & updated by Xueyuan
 You will be assigned to review the project drafts of two of your peers. You will have one week to provide them with feedback. You should upload your feedback as a Markdown (or plain text) document to the "reviews" folder of DAT3-students. If your last name is Smith and you are reviewing Jones, you should name your file `smith_reviews_jones.md`.
 
 Expectations:
